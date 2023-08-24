@@ -4,6 +4,6 @@ st.title("El mejor título del universo")
 
 st.header("Las rosas son rojas")
 st.write("William Shakespeare")
-image = Image.open ('imagenapp.png')
+image = Image.open ('5554532.png')
 
 st.image(image, caption = 'El amor de tu vida')
